@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: caja-extensions 1.27.0\n"
+"Project-Id-Version: caja-extensions 1.28.0\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/caja-extensions\n"
-"POT-Creation-Date: 2023-08-31 19:45+0200\n"
+"POT-Creation-Date: 2026-03-12 17:25+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -125,15 +125,15 @@ msgid_plural "%0.2f frames per second"
 msgstr[0] ""
 msgstr[1] ""
 
-#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:5
+#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:4
 msgid "Audio/Video Properties"
 msgstr ""
 
-#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:6
+#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:5
 msgid "Display audio/video properties"
 msgstr ""
 
-#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:8
+#: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2005 Bastien Nocera\n"
 "Copyright (C) 2005-2019 Totem Media Player developers\n"
@@ -229,15 +229,15 @@ msgstr ""
 msgid "Error: %s"
 msgstr ""
 
-#: gksu/libcaja-gksu.caja-extension.desktop.in.in:5
+#: gksu/libcaja-gksu.caja-extension.desktop.in.in:4
 msgid "Gksu"
 msgstr ""
 
-#: gksu/libcaja-gksu.caja-extension.desktop.in.in:6
+#: gksu/libcaja-gksu.caja-extension.desktop.in.in:5
 msgid "Privilege granting extension"
 msgstr ""
 
-#: gksu/libcaja-gksu.caja-extension.desktop.in.in:8
+#: gksu/libcaja-gksu.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2002-2005 Gustavo Noronha Silva\n"
 "Copyright (C) 2013-2014 Stefano Karapetsas\n"
@@ -399,68 +399,68 @@ msgstr ""
 msgid "<i>Rotating \"%s\"</i>"
 msgstr ""
 
-#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:5
+#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:4
 msgid "Image Converter"
 msgstr ""
 
-#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:6
+#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:5
 msgid "Rotate and resize images"
 msgstr ""
 
-#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:8
+#: image-converter/libcaja-image-converter.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2004-2005 Jürg Billeter\n"
 "Copyright (C) 2013-2014 Stefano Karapetsas\n"
 "Copyright (C) 2015-2021 MATE developers"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:459
-#: open-terminal/caja-open-terminal.c:472
+#: open-terminal/caja-open-terminal.c:460
+#: open-terminal/caja-open-terminal.c:473
 msgid "Open in _Terminal"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:461
+#: open-terminal/caja-open-terminal.c:462
 msgid "Open the currently selected folder in a terminal"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:463
-#: open-terminal/caja-open-terminal.c:473
+#: open-terminal/caja-open-terminal.c:464
+#: open-terminal/caja-open-terminal.c:474
 msgid "Open the currently open folder in a terminal"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:469
+#: open-terminal/caja-open-terminal.c:470
 msgid "Open _Terminal"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:470
+#: open-terminal/caja-open-terminal.c:471
 msgid "Open a terminal"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:563
+#: open-terminal/caja-open-terminal.c:564
 msgid "Open at Home if trying to open on desktop"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:566
+#: open-terminal/caja-open-terminal.c:567
 msgid "Terminal application:"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:586
+#: open-terminal/caja-open-terminal.c:587
 msgid "Close"
 msgstr ""
 
-#: open-terminal/caja-open-terminal.c:592
+#: open-terminal/caja-open-terminal.c:593
 msgid "open-terminal Configuration"
 msgstr ""
 
-#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:5
+#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:4
 msgid "Open terminal"
 msgstr ""
 
-#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:6
+#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:5
 msgid "Open terminals from folders"
 msgstr ""
 
-#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:8
+#: open-terminal/libcaja-open-terminal.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2004-2005 Free Software Foundation, Inc.\n"
 "Copyright (C) 2013-2014 Stefano Karapetsas\n"
@@ -497,32 +497,32 @@ msgstr ""
 msgid "Files"
 msgstr ""
 
-#: sendto/caja-sendto-command.c:794
+#: sendto/caja-sendto-command.c:827
 msgid "Expects URIs or filenames to be passed as options\n"
 msgstr ""
 
-#: sendto/caja-sendto-command.c:816
+#: sendto/caja-sendto-command.c:849
 #, c-format
 msgid "Could not parse command-line options: %s\n"
 msgstr ""
 
-#: sendto/caja-sendto-command.c:831
+#: sendto/caja-sendto-command.c:864
 msgid "Could not load any plugins."
 msgstr ""
 
-#: sendto/caja-sendto-command.c:834
+#: sendto/caja-sendto-command.c:867
 msgid "Please verify your installation"
 msgstr ""
 
-#: sendto/libcaja-sendto.caja-extension.desktop.in.in:5
+#: sendto/libcaja-sendto.caja-extension.desktop.in.in:4
 msgid "Send To"
 msgstr ""
 
-#: sendto/libcaja-sendto.caja-extension.desktop.in.in:6
+#: sendto/libcaja-sendto.caja-extension.desktop.in.in:5
 msgid "Integrates email clients and Pidgin"
 msgstr ""
 
-#: sendto/libcaja-sendto.caja-extension.desktop.in.in:8
+#: sendto/libcaja-sendto.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2004 Roberto Majadas\n"
 "Copyright (C) 2013-2014 Stefano Karapetsas\n"
@@ -545,8 +545,8 @@ msgstr ""
 
 #: sendto/org.mate.Caja.Sendto.gschema.xml.in:15
 msgid ""
-"Used to store which type of archive was used the last time (0: zip, 1: tar."
-"gz, 2: tar.bz2)."
+"Used to store which type of archive was used the last time (0: zip, 1: "
+"tar.gz, 2: tar.bz2)."
 msgstr ""
 
 #: sendto/caja-sendto.ui:17
@@ -625,23 +625,23 @@ msgstr ""
 msgid "Instant Message (Pidgin)"
 msgstr ""
 
-#: sendto/plugins/removable-devices/removable-devices.c:254
+#: sendto/plugins/removable-devices/removable-devices.c:255
 msgid "Removable disks and shares"
 msgstr ""
 
-#: sendto/plugins/upnp/upnp.c:318
+#: sendto/plugins/upnp/upnp.c:330
 msgid "UPnP Media Server"
 msgstr ""
 
-#: share/libcaja-share.caja-extension.desktop.in.in:5 share/caja-share.c:1053
+#: share/libcaja-share.caja-extension.desktop.in.in:4 share/caja-share.c:1053
 msgid "Share"
 msgstr ""
 
-#: share/libcaja-share.caja-extension.desktop.in.in:6
+#: share/libcaja-share.caja-extension.desktop.in.in:5
 msgid "Allows to quickly share a folder"
 msgstr ""
 
-#: share/libcaja-share.caja-extension.desktop.in.in:8
+#: share/libcaja-share.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2005 Ethium, Inc.\n"
 "Copyright (C) 2013-2014 Stefano Karapetsas\n"
@@ -814,15 +814,15 @@ msgstr ""
 msgid "Set image as the current wallpaper"
 msgstr ""
 
-#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:5
+#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:4
 msgid "Wallpaper"
 msgstr ""
 
-#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:6
+#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:5
 msgid "Allows to quickly set wallpaper"
 msgstr ""
 
-#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:8
+#: wallpaper/libcaja-wallpaper.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2014 Stefano Karapetsas\n"
 "Copyright (C) 2015-2021 MATE developers"
@@ -836,15 +836,15 @@ msgstr ""
 msgid "Tags stored in extended attributes"
 msgstr ""
 
-#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:5
+#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:4
 msgid "xattr Tags"
 msgstr ""
 
-#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:6
+#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:5
 msgid "View tags stored in extended attributes"
 msgstr ""
 
-#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:8
+#: xattr-tags/libcaja-xattr-tags.caja-extension.desktop.in.in:7
 msgid ""
 "Copyright (C) 2016 Felipe Barriga Richards\n"
 "Copyright (C) 2017-2021 MATE developers"
