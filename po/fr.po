@@ -9,16 +9,16 @@
 # Nicolas Dobigeon, 2018
 # yoplait <yoplait@tememe.org>, 2018
 # Nicolas Roelandt (Personnel), 2019
-# roxfr <roxfr@outlook.fr>, 2020
+# roxfr, 2020
 # Laurent Napias, 2020
-# Stéphane PETRUS <stephane.petrus@posteo.net>, 2021
-# David D, 2021
+# Stéphane PETRUS <stephane.petrus@mailfence.com>, 2021
 # Tubuntu, 2023
 # mauron, 2023
 # Étienne Deparis <etienne@depar.is>, 2023
 # Stefano Karapetsas <stefano@karapetsas.com>, 2023
 # Louis-Martin Carrière <louismc@gmail.com>, 2023
 # clefebvre <clement.lefebvre@linuxmint.com>, 2023
+# David D, 2024
 # 
 msgid ""
 msgstr ""
@@ -26,7 +26,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/caja-extensions\n"
 "POT-Creation-Date: 2023-08-31 19:45+0200\n"
 "PO-Revision-Date: 2018-03-11 15:02+0000\n"
-"Last-Translator: clefebvre <clement.lefebvre@linuxmint.com>, 2023\n"
+"Last-Translator: David D, 2024\n"
 "Language-Team: French (https://app.transifex.com/mate/teams/13566/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -92,11 +92,11 @@ msgstr "N/D"
 
 #: audio-video-properties/bacon-video-widget-properties.c:135
 msgid "0 Hz"
-msgstr ""
+msgstr "0 Hz"
 
 #: audio-video-properties/bacon-video-widget-properties.c:137
 msgid "0 Channels"
-msgstr ""
+msgstr "0 canal"
 
 #: audio-video-properties/bacon-video-widget-properties.c:153
 #, c-format
@@ -136,23 +136,23 @@ msgstr "%s %s"
 
 #: audio-video-properties/bacon-video-widget-properties.c:173
 msgid "0 seconds"
-msgstr ""
+msgstr "0 secondes"
 
 #: audio-video-properties/bacon-video-widget-properties.c:233
 #, c-format
 msgid "%0.2f frame per second"
 msgid_plural "%0.2f frames per second"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%0.2f trame par seconde"
+msgstr[1] "%0.2f trames par seconde"
+msgstr[2] "%0.2f trames par seconde"
 
 #: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:5
 msgid "Audio/Video Properties"
-msgstr ""
+msgstr "Propriétés audio/vidéo"
 
 #: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:6
 msgid "Display audio/video properties"
-msgstr ""
+msgstr "Afficher propriétés audio/vidéo"
 
 #: audio-video-properties/libcaja-av.caja-extension.desktop.in.in:8
 msgid ""
@@ -161,11 +161,15 @@ msgid ""
 "Copyright (C) 2019-2021 Nautilus developers\n"
 "Copyright (C) 2021 MATE developers"
 msgstr ""
+"Copyright (C) 2005 Bastien Nocera\n"
+"Copyright (C) 2005-2019 Développeurs de Totem Media Player\n"
+"Copyright (C) 2019-2021 Développeurs de Nautilus\n"
+"Copyright (C) 2021 Développeurs de MATE"
 
 #: audio-video-properties/totem-properties-main.c:118
 #: audio-video-properties/totem-properties-view.c:275
 msgid "Audio/Video"
-msgstr ""
+msgstr "Audio/Vidéo"
 
 #: audio-video-properties/totem-properties-view.c:133
 msgid "N/A"
@@ -179,12 +183,12 @@ msgstr "N/D"
 #: audio-video-properties/totem-properties-view.c:165
 #, c-format
 msgid "%d kbps"
-msgstr ""
+msgstr "%d kops"
 
 #: audio-video-properties/totem-properties-view.c:182
 #, c-format
 msgid "%d × %d"
-msgstr ""
+msgstr "%d × %d"
 
 #: audio-video-properties/totem-properties-view.c:214
 #, c-format
@@ -198,7 +202,7 @@ msgstr "N/D"
 
 #: audio-video-properties/totem-properties-view.c:230
 msgid "Surround"
-msgstr ""
+msgstr "Surround"
 
 #: audio-video-properties/totem-properties-view.c:232
 msgid "Mono"

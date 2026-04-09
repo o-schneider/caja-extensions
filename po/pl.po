@@ -17,7 +17,7 @@
 # Marcin Kralka <marcink96@gmail.com>, 2023
 # Piotr Drąg <piotrdrag@gmail.com>, 2023
 # Stefano Karapetsas <stefano@karapetsas.com>, 2023
-# Piotr Strębski <strebski@gmail.com>, 2023
+# Piotr Strebski <strebski@gmail.com>, 2023
 # Marek Adamski, 2023
 # 
 msgid ""

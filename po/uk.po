@@ -10,9 +10,9 @@
 # Anton Gladky <gladk@debian.org>, 2022
 # Stefano Karapetsas <stefano@karapetsas.com>, 2023
 # dsafsadf <heneral@gmail.com>, 2023
-# Sergiy <sergiy@gorichenko.com>, 2023
+# Serhii <sergiy@gorichenko.com>, 2023
 # Микола Ткач <chistomov@gmail.com>, 2023
-# Шаповалов Анатолій Романович <elrond.716.smith@gmail.com>, 2023
+# Анатолій Романович Шаповалов <elrond.716.smith@gmail.com>, 2023
 # Gordon Freeman, 2023
 # 
 msgid ""

@@ -5,6 +5,7 @@
 # 
 # Translators:
 # Tan, Kian-ting, 2024
+# Transifex Bot <>, 2026
 # 
 msgid ""
 msgstr ""
@@ -12,7 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/caja-extensions\n"
 "POT-Creation-Date: 2023-08-31 19:45+0200\n"
 "PO-Revision-Date: 2018-03-11 15:02+0000\n"
-"Last-Translator: Tan, Kian-ting, 2024\n"
+"Last-Translator: Transifex Bot <>, 2026\n"
 "Language-Team: Chinese (Min Nan) (https://app.transifex.com/mate/teams/13566/nan/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -197,7 +198,7 @@ msgstr ""
 
 #: audio-video-properties/totem-properties-view.c:279
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 #: gksu/libcaja-gksu.c:133
 msgid "Open as administrator"
@@ -743,7 +744,7 @@ msgstr ""
 
 #: share/share-dialog.ui:264
 msgid "_Save"
-msgstr ""
+msgstr "儲存(_S)"
 
 #: share/shares.c:126
 #, c-format
@@ -827,7 +828,7 @@ msgstr ""
 
 #: xattr-tags/caja-xattr-tags-extension.c:205
 msgid "Tags"
-msgstr ""
+msgstr "標簽"
 
 #: xattr-tags/caja-xattr-tags-extension.c:206
 msgid "Tags stored in extended attributes"

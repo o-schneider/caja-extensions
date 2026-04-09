@@ -8,13 +8,14 @@
 # Sabri Ünal <yakushabb@gmail.com>, 2019
 # 0d1bdb3b9a0d4e8f77bc854af8bf3dfc_e6913f4, 2019
 # Butterfly <gokhanlnx@gmail.com>, 2021
-# Sabri Ünal <libreajans@gmail.com>, 2023
+# b83946de5835331df42b9ffcc43e6a33_05e65cd <73a30e0a984b2291d4915f37112ad292_814039>, 2023
 # Kudret <kudretemre@hotmail.com.tr>, 2023
 # mauron, 2023
 # Stefano Karapetsas <stefano@karapetsas.com>, 2023
 # tarakbumba <tarakbumba@gmail.com>, 2023
 # Umut Barış GÖKMEN <umtbrsgkmn@gmail.com>, 2023
 # 9d4282795e87ad099e39d98812f1a822_ade2f01 <c3fa67bcf1b8b90bf10d2d5dae1637ab_127851>, 2023
+# Transifex Bot <>, 2026
 # 
 msgid ""
 msgstr ""
@@ -22,7 +23,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/caja-extensions\n"
 "POT-Creation-Date: 2023-08-31 19:45+0200\n"
 "PO-Revision-Date: 2018-03-11 15:02+0000\n"
-"Last-Translator: 9d4282795e87ad099e39d98812f1a822_ade2f01 <c3fa67bcf1b8b90bf10d2d5dae1637ab_127851>, 2023\n"
+"Last-Translator: Transifex Bot <>, 2026\n"
 "Language-Team: Turkish (https://app.transifex.com/mate/teams/13566/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
